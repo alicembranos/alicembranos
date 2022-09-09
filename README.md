@@ -17,9 +17,9 @@
 
 ### :woman_technologist: About Me :
 
-I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is passionate about making more and clean accesible code. 
+I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is passionate about making clean and accesible code. 
 
-Three years ago I started to do some projects from scratch by myself and from now on I can't stop coding.
+Three years ago I started to do some projects from scratch by myself and from now on, I can't stop coding.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
