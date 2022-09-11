@@ -11,7 +11,7 @@
   </div>
   <!--<img src="https://komarev.com/ghpvc/?username=alicembranos&style=flat-square&color=blue" alt=""/>-->
   <h1>
-   Hi, I'm Ali 👋👩‍
+   Hi, I'm Ali 👋🤓
   </h1>
 </div>
 
