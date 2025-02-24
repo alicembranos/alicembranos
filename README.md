@@ -15,32 +15,35 @@
   </h1>
 </div>
 
-### :woman_technologist: About Me :
+# 🚀 Alicia Cembranos | Pragmatic Software Engineer & Code Craftswoman 
 
-I build scalable, maintainable software with a sharp focus on backend architecture and a T-shaped skill set. Over the past three years, I’ve worked across the stack but thrive in designing clean and pragmatic backend solutions.
+## 💡 About Me
+I'm a **pragmatic software engineer** passionate about building **scalable, maintainable, and user-centric applications**.  
+I specialize in **backend development**, but my T-shaped profile allows me to **navigate the full stack** when needed.  
 
-I prioritize clarity over complexity, TDD for software quality, and observability for deep production insights. Drawing inspiration from Martin Fowler, Cyrille Martraire, and Kent Beck, I apply hexagonal architecture, leverage design patterns when needed, and keep my work user-centric.
+🛠️ **I craft code with care**, keeping software maintainable and readable while **avoiding unnecessary complexity**.  
+👀 **Observability is my superpower**—I love understanding how my applications behave in production.  
+🔁 **I iterate and experiment** to continuously refine products based on real user needs.  
 
-To me, languages and frameworks are just tools—I adapt fast, pick up new technologies as needed, and focus on solving real problems, not just writing code in a specific stack.
+## 🏆 Core Principles & Tech Stack  
 
-Lately, I’ve been diving into AI-powered features and coding AI agents, always exploring new ways to push boundaries.
+💎 **Code Craftsmanship** – I embrace **TDD**, **clean architecture**, and pragmatic **design patterns**.  
+🧩 **Hexagonal Architecture** – I design software for **adaptability** and **scalability**.  
+🔎 **Observability-Driven Development** – I track, monitor, and optimize applications for reliability.  
+🤖 **Exploring AI** – I’ve started **coding AI agents** and implemented **AI-powered features**.  
+⚙️ **Pragmatism over Complexity** – Why force intricate design patterns when a simple controller does the job? Architecture should serve the code, not burden it.
 
-### 💡 What Drives Me:
+## 🔥 Developer Mindset  
+I take inspiration from **Martin Fowler**, **Cyrille Martraire**, **Kent Beck**, and **Valentina Jemuović**.  
+My work thrives in **highly adaptable teams** that experiment, iterate, and push boundaries.  
 
-🏗️ Craftsmanship & Software Quality – I see development as an evolving craft where attention to detail and continuous learning matter.
+💡 **T-shaped Engineer** – I dive deep into **backend architecture** but remain flexible across the stack.  
+🛠️ **Frontend-Ready** – My past as a **frontend developer** gives me **full-stack adaptability**.  
+🌱 **Always Learning** – AI, security, and scalable architectures are my current explorations.  
 
-🧪 Experimentation & User Impact – I work in teams that iterate fast, experiment often, and thrive in a user-oriented mindset.
+---
 
-⚡ Adaptability & Versatility – With a frontend background, I can shift between backend and frontend as needed.
-
-🎯 Autonomy & Ownership – I enjoy defining, implementing, and shipping features end-to-end while ensuring high quality.
-
-### 🔥 My Tech Philosophy:
-
-✔ Test-Driven Development (TDD) – Writing tests first for robust and maintainable code.
-✔ Hexagonal Architecture – Ensuring flexibility and clean domain-driven design.
-✔ Observability – Monitoring performance and gaining deep insights into systems.
-✔ Design Patterns – Applying them only when complexity justifies it.✔ AI Exploration – Implementing AI-powered features and experimenting with AI agents.
+**"Crafting software isn’t just about writing code; it’s about building something meaningful and maintainable."**  
 <!--
 **alicembranos/alicembranos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
